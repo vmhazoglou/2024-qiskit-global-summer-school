@@ -4,4 +4,4 @@ The Qiskit Global Summer School is a two-week intensive summer program designed 
 
 &nbsp;
 
-### These are solutions to the labs
+#### These are my solutions to the labs
